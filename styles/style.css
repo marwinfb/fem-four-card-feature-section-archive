@@ -115,6 +115,7 @@ h6 {
     "supervisor team calculator"
     "supervisor karma calculator";
   gap: 3rem;
+  padding-bottom: 80px;
 }
 
 .card {
